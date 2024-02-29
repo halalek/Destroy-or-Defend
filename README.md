@@ -17,8 +17,11 @@ A player is allowed to setup their units on certain regions of the arena. Once t
 units behave autonomously (without any intervention from the player). The units attack or defend 
 following their assigned tactics. The run continues until one of the following occurs where one victor is 
 declared:
+
 • The base is destroyed, regardless of how many defending units are still alive;
+
 • The attacker units are destroyed and no more attacking units are available; or
+
 • The preset time is up, which means the attack has failed.
 
 
